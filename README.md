@@ -1,0 +1,1 @@
+PictureLay - social Internet service like Pinterest, photo hosting, which allows users to add images online, place them in thematic collections and share them with other users.
